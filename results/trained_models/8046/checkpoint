@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/My Drive/Number_Estimation/numerosity-estimation-master-data/results/trained_models/8046/nn_model_8046"
+all_model_checkpoint_paths: "/content/drive/My Drive/Number_Estimation/numerosity-estimation-master-data/results/trained_models/8046/nn_model_8046"

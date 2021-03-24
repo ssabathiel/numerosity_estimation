@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/My Drive/Number_Estimation/numerosity-estimation-master-data/results/trained_models/2682_rectangles_fixed_total/_rectangles_fixed_total_nn_model_2682"
+all_model_checkpoint_paths: "/content/drive/My Drive/Number_Estimation/numerosity-estimation-master-data/results/trained_models/2682_rectangles_fixed_total/_rectangles_fixed_total_nn_model_2682"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/My Drive/Number_Estimation/numerosity-estimation-master-data/results/trained_models/4842_squares_equal/_squares_equal_nn_model_4842"
+all_model_checkpoint_paths: "/content/drive/My Drive/Number_Estimation/numerosity-estimation-master-data/results/trained_models/4842_squares_equal/_squares_equal_nn_model_4842"
